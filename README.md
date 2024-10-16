@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
+![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Mohammad Zajbe</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Building Scalable Web Applications</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
